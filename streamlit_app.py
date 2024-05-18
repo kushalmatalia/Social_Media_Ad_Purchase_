@@ -39,5 +39,7 @@ if st.sidebar.button('Predict'):
 # Footer with link to deployed Flask app
 st.markdown('''
 ---
-Code available at [GitHub](https://github.com/kushalmatalia/Social_Media_Ad_Purchase/tree/main)
+Flask - Code available at [GitHub](https://github.com/kushalmatalia/Social_Media_Ad_Purchase)
+            
+Streamlit - Code available at [GitHub](https://github.com/kushalmatalia/Social_Media_Ad_Purchase_)
 ''')
